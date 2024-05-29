@@ -5,7 +5,7 @@ Hello, I am Paulson Kimani. I am a junior year student at Seattle Pacific Univer
 The coding languages that I like to use most are Python, Javascript, and C++. I like them in that order, due to language features, and simplicity.
 
 ## Career Goals
-I want to be a software developer because it will allow me to use my skills in coding. Also, I am passionate about Information Technology, so either is acceptable to me. 
+I want to be a software developer because it will allow me to use my skills in coding. Also, I am passionate about Information Technology, so either is  an acceptable career to me. 
 
 ## Classes this Quarter
 

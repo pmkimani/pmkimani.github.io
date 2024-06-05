@@ -5,4 +5,4 @@ Portfolio
 
 #System Specification
 
-<a href="./Kimani Paulson - System Specification - PhotoMap - v1.docx"> </a>
+<a href="./Kimani Paulson - System Specification - PhotoMap - v1.docx">System Specification</a>

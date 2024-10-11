@@ -1,0 +1,46 @@
+# Site settings
+title: "PK's Personal Website"  # Your site title
+email: pmkimani@example.com     # Your contact email
+description: "Welcome to my personal website. Here, you'll find my portfolio, blog posts, and more."
+baseurl: ""                     # Empty for local development
+url: "https://pmkimani.github.io"  # Your GitHub Pages URL
+twitter_username: your_twitter_handle
+github_username: pmkimani       # Your GitHub username
+
+# Theme settings
+theme: jekyll-theme-cayman  # Use the Cayman theme
+
+# Plugins
+plugins:
+  - jekyll-feed          # Enables Atom feed
+  - jekyll-seo-tag       # Adds SEO metadata
+  - jekyll-sitemap       # Generates sitemap.xml
+
+# Markdown processor settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from the build process
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+
+# Permalinks structure
+permalink: /:categories/:title/
+
+# Default layouts for pages and posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

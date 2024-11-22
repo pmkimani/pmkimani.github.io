@@ -9,6 +9,9 @@ github_username: pmkimani       # Your GitHub username
 
 # Theme settings
 theme: jekyll-theme-cayman  # Use the Cayman theme
+---
+image: /assets/fd1b1066-8903-40e1-be88-6243c203c99e.jpg
+---
 
 # Plugins
 plugins:
